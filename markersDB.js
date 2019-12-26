@@ -1,5 +1,5 @@
 var markersDB={
-  "Homes5a0d_19d9": {
+  "Homes6a0d_c675": {
     "created": false,
     "raw": [
       {
@@ -45,6 +45,13 @@ var markersDB={
         "hovertext": "CrafterWick"
       },
       {
+        "x": 722,
+        "y": 211,
+        "z": -494,
+        "text": "CrafterWick XP Farm",
+        "hovertext": "CrafterWick XP Farm"
+      },
+      {
         "x": 325,
         "y": 63,
         "z": -370,
@@ -66,6 +73,13 @@ var markersDB={
         "hovertext": "Astral"
       },
       {
+        "x": 2301,
+        "y": 72,
+        "z": 1158,
+        "text": "Astral Mining Base",
+        "hovertext": "Astral Mining Base"
+      },
+      {
         "x": 300,
         "y": 65,
         "z": -139,
@@ -82,7 +96,7 @@ var markersDB={
     ],
     "name": "Homes"
   },
-  "Servicesa5eb_19d9": {
+  "Services95eb_c675": {
     "created": false,
     "raw": [
       {
