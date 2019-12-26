@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1577330213",
+        "cacheTag": "1577382046",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -42,14 +42,14 @@ var overviewerConfig = {
     "tilesets": [
         {
             "name": "Overworld Render",
-            "zoomLevels": 11,
+            "zoomLevels": 9,
             "defaultZoom": 1,
-            "maxZoom": 11,
+            "maxZoom": 9,
             "path": "SmoothRender",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "World - overworld",
-            "last_rendertime": 1577325323,
+            "last_rendertime": 1577375717,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
