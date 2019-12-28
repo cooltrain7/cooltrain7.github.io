@@ -1,14 +1,14 @@
 var markers={
   "SmoothRender": [
     {
-      "groupName": "Homes540d_9ef5",
+      "groupName": "Homes5a0d_f6e3",
       "displayName": "Homes",
       "icon": "signpost_icon.png",
       "createInfoWindow": true,
       "checked": false
     },
     {
-      "groupName": "Servicesabeb_9ef5",
+      "groupName": "Servicesa5eb_f6e3",
       "displayName": "Services",
       "icon": "signpost_icon.png",
       "createInfoWindow": true,
