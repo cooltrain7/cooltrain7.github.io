@@ -1,5 +1,5 @@
 var markersDB={
-  "Homes5a0d_f6e3": {
+  "Homes5a0d_2419": {
     "created": false,
     "raw": [
       {
@@ -103,7 +103,20 @@ var markersDB={
     ],
     "name": "Homes"
   },
-  "Servicesa5eb_f6e3": {
+  "What?5a1e_2419": {
+    "created": false,
+    "raw": [
+      {
+        "x": -224,
+        "y": 69,
+        "z": -1546,
+        "text": "???",
+        "hovertext": "???"
+      }
+    ],
+    "name": "What?"
+  },
+  "Servicesa5eb_2419": {
     "created": false,
     "raw": [
       {
@@ -128,8 +141,8 @@ var markersDB={
         "hovertext": "Stronghold Start"
       },
       {
-        "x": 2812,
-        "y": 70,
+        "x": 955,
+        "y": 63,
         "z": -3309,
         "text": "Ocean,Beach,Ice Portal",
         "hovertext": "Ocean,Beach,Ice Portal"
