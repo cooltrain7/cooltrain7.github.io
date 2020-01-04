@@ -23,11 +23,12 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "World - overworld"
+        "World - overworld",
+        "End - end"
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1577473110",
+        "cacheTag": "1578173030",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -45,11 +46,11 @@ var overviewerConfig = {
             "zoomLevels": 9,
             "defaultZoom": 1,
             "maxZoom": 9,
-            "path": "SmoothRender",
+            "path": "World",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "World - overworld",
-            "last_rendertime": 1577472109,
+            "last_rendertime": 1577903471,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -65,6 +66,29 @@ var overviewerConfig = {
                 97,
                 -9
             ],
+            "north_direction": 0
+        },
+        {
+            "name": "End Render",
+            "zoomLevels": 10,
+            "defaultZoom": 1,
+            "maxZoom": 10,
+            "path": "End",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "End - end",
+            "last_rendertime": 1578164903,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                0,
+                64,
+                0
+            ],
+            "minZoom": 0,
+            "spawn": false,
             "north_direction": 0
         }
     ]

@@ -1,22 +1,31 @@
 var markers={
-  "SmoothRender": [
+  "World": [
     {
-      "groupName": "Homes5a0d_2419",
+      "groupName": "Homesa330_0e49",
       "displayName": "Homes",
       "icon": "signpost_icon.png",
       "createInfoWindow": true,
       "checked": false
     },
     {
-      "groupName": "Servicesa5eb_2419",
+      "groupName": "Services5cd9_0e49",
       "displayName": "Services",
       "icon": "signpost_icon.png",
       "createInfoWindow": true,
       "checked": false
     },
     {
-      "groupName": "What?5a1e_2419",
+      "groupName": "What?a31f_0e49",
       "displayName": "What?",
+      "icon": "signpost_icon.png",
+      "createInfoWindow": true,
+      "checked": false
+    }
+  ],
+  "End": [
+    {
+      "groupName": "Services5cd9_f621",
+      "displayName": "Services",
       "icon": "signpost_icon.png",
       "createInfoWindow": true,
       "checked": false
