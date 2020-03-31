@@ -100,8 +100,14 @@ nav
 	margin: 10px;
 	border-radius: 7%;
 	box-shadow: 5px 10px #313131;
+	transition: box-shadow 0.3s ease-in-out;
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+
+.ContentBox:hover
+{
+	box-shadow: 10px 20px #313131;
 }
 
 /*<!--------------------Footer--------------------!>*/
