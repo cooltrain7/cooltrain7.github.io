@@ -33,3 +33,16 @@ function displayWindowSize()
 	
 	closeMobileMenu();
 }
+
+//When hover on an object with this function change the display text to that of the button under the hover
+function mouseEnterButton(newText)
+{
+	var buttonLink = document.getElementsByClassName("DescButtonLink");
+	var buttonLinkP = buttonLink[0].getElementsByTagName('p')[0];
+	
+	if(buttonLinkP)
+	{
+		buttonLinkP.innerHTML = newText;		
+	}
+	
+}

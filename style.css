@@ -130,7 +130,7 @@ nav
 .DescWrapper
 {
 	background: #464646;
-	height: 35%;
+	height: 37%;
 	width: 65%;
 	margin: auto;
 	transform: translate(0, 50%);
@@ -157,7 +157,7 @@ nav
 	box-shadow: 3px 8px #262626;
 }
 
-.DescWrapper p 
+.DescWrapper #summaryText, .DescButton p
 {
 	font-size: 18px;
 	color: #fff;
@@ -191,6 +191,15 @@ nav
 	padding-top: 8px;
 }
 
+.DescButtonLink
+{
+	font-size: 16px;
+	color: #fff;
+	font-family: Aharoni, sans-serif;
+	padding: 0 10px 0 10px;
+	height: 11%;
+	transform: translate(0, 25%);
+}
 .DescButton:hover
 {
 	box-shadow: 6px 12px #262626;
